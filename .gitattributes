@@ -1,1 +1,11 @@
 * text=auto !eol
+/CMakeLists.txt -text
+/LICENSE -text
+/Makefile -text
+/README -text
+/README_EN.txt -text
+/changelog.txt -text
+/pystring.cpp -text
+/pystring.h -text
+/test.cpp -text
+/unittest.h -text
