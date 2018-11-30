@@ -95,7 +95,7 @@ typedef int Py_ssize_t;
             const std::basic_string<t_elem, t_traits, t_alloc> & str,
             std::vector< std::basic_string<t_elem, t_traits, t_alloc> > & result, int maxsplit )
         {
-            std::basic_string<t_elem, t_traits, t_alloc>::size_type i, j, len = str.size();
+            typename std::basic_string<t_elem, t_traits, t_alloc>::size_type i, j, len = str.size();
             for (i = j = 0; i < len; )
             {
 
@@ -131,8 +131,8 @@ typedef int Py_ssize_t;
             const std::basic_string<t_elem, t_traits, t_alloc> & str,
             std::vector< std::basic_string<t_elem, t_traits, t_alloc> > & result, int maxsplit )
         {
-            std::basic_string<t_elem, t_traits, t_alloc>::size_type len = str.size();
-            std::basic_string<t_elem, t_traits, t_alloc>::size_type i, j;
+            typename std::basic_string<t_elem, t_traits, t_alloc>::size_type len = str.size();
+            typename std::basic_string<t_elem, t_traits, t_alloc>::size_type i, j;
             for (i = j = len; i > 0; )
             {
 
