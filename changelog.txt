@@ -1,6 +1,9 @@
+2019.10.08:
+* fixed: cmake: configure fix
+
 2018.11.22:
 * fixed: build under Linux, use C++11 only
 
 2018.11.13:
 * new: changelog
-* new: initial patched sources fork at commit #c2de99deb4f0bd13751f8436400b5e8662301769 from https://github.com/imageworks/pystring/commits/master
+* new: initial patched sources fork at commit #c2de99deb4f0bd13751f8436400b5e8662301769 (2012.20.17) from https://github.com/imageworks/pystring/commits/master
