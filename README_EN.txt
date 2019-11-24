@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2018.11.15
+* 2019.11.24
 * pystring
 
 1. DESCRIPTION
@@ -12,6 +12,8 @@
 1. DESCRIPTION
 -------------------------------------------------------------------------------
 pystring patched sources fork from: https://github.com/imageworks/pystring
+
+Based on version: 2019.03.21 <4af4a865208b400b9cd5ae71b0e162a6baf331f9>
 
 Partially refactored to be used with std::basic_string template class instead of
 single std::string.
@@ -53,11 +55,14 @@ https://github.com/imageworks/pystring/blob/master/LICENSE)
 3. REPOSITORIES
 -------------------------------------------------------------------------------
 Primary:
-  * https://svn.code.sf.net/p/tacklelib/3dparty--pystring/trunk
+  * https://sf.net/p/tacklelib/3dparty--pystring/HEAD/tree/trunk
+    https://svn.code.sf.net/p/tacklelib/3dparty--pystring/trunk
 First mirror:
-  * https://github.com/andry81/tacklelib--3dparty--pystring.git
+  * https://github.com/andry81/tacklelib--3dparty--pystring/tree/trunk
+    https://github.com/andry81/tacklelib--3dparty--pystring.git
 Second mirror:
-  * https://bitbucket.org/andry81/tacklelib-3dparty-pystring.git
+  * https://bitbucket.org/andry81/tacklelib-3dparty-pystring/src/trunk
+    https://bitbucket.org/andry81/tacklelib-3dparty-pystring.git
 
 -------------------------------------------------------------------------------
 4. INSTALLATION
