@@ -1,6 +1,6 @@
 * README_EN.txt
-* 2019.11.24
-* pystring
+* 2020.01.21
+* tacklelib--3dparty--pystring
 
 1. DESCRIPTION
 2. LICENSE
@@ -11,7 +11,8 @@
 -------------------------------------------------------------------------------
 1. DESCRIPTION
 -------------------------------------------------------------------------------
-pystring patched sources fork from: https://github.com/imageworks/pystring
+pystring patched sources fork from:
+https://github.com/imageworks/pystring
 
 Based on version: 2019.03.21 <4af4a865208b400b9cd5ae71b0e162a6baf331f9>
 

@@ -1,3 +1,6 @@
+2020.01.21:
+* changed: readme update
+
 2019.11.24:
 * changed: merge with the latest library repository changes at commit #4af4a865208b400b9cd5ae71b0e162a6baf331f9 (2019.03.21) from https://github.com/imageworks/pystring
 * changed: readme update
