@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.01.21
+* 2020.01.24
 * tacklelib--3dparty--pystring
 
 1. DESCRIPTION
@@ -13,11 +13,6 @@
 -------------------------------------------------------------------------------
 pystring patched sources fork from:
 https://github.com/imageworks/pystring
-
-Based on version: 2019.03.21 <4af4a865208b400b9cd5ae71b0e162a6baf331f9>
-
-Partially refactored to be used with std::basic_string template class instead of
-single std::string.
 
 From authors:
 
@@ -37,7 +32,7 @@ From authors:
 The original library patched to fix these issues:
 
 1. Use std::basic_string instead of single std::string (unable to use functions
-   in unicode contexts because of what reason).
+   in unicode contexts because of that reason).
 
 2. Compilation warnings in the Microsoft Visual Studio 2015 Update 3.
 
