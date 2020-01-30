@@ -1,3 +1,6 @@
+2020.01.30:
+* changed: changelog updated for more accurate links
+
 2020.01.24:
 * changed: cutted off the version reference from the readme file as may change frequently
 
@@ -5,7 +8,7 @@
 * changed: readme update
 
 2019.11.24:
-* changed: merge with the library repository changes at commit #4af4a865208b400b9cd5ae71b0e162a6baf331f9 (2019.03.21) from https://github.com/imageworks/pystring
+* changed: merge with the library repository changes at commit #4af4a865208b400b9cd5ae71b0e162a6baf331f9 (2019.03.21) from https://github.com/imageworks/pystring/commits/master (https://github.com/imageworks/pystring/commit/4af4a865208b400b9cd5ae71b0e162a6baf331f9 )
 * changed: readme update
 
 2019.10.08:
@@ -16,4 +19,4 @@
 
 2018.11.13:
 * new: changelog
-* new: initial patched sources fork at commit #c2de99deb4f0bd13751f8436400b5e8662301769 (2012.20.17) from https://github.com/imageworks/pystring/commits/master
+* new: initial patched sources fork at commit #c2de99deb4f0bd13751f8436400b5e8662301769 (2012.20.17) from https://github.com/imageworks/pystring/commits/master (https://github.com/imageworks/pystring/commit/c2de99deb4f0bd13751f8436400b5e8662301769 )
