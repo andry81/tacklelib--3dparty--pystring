@@ -1,3 +1,6 @@
+2020.02.10:
+* changed: readme update
+
 2020.01.30:
 * changed: changelog updated for more accurate version info
 
