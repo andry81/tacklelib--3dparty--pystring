@@ -1,0 +1,31 @@
+2020.04.12:
+* new: branch with the library repository changes above release 1.1.3 at commit #4af4a865208b400b9cd5ae71b0e162a6baf331f9 (2020.02.04) from https://github.com/imageworks/pystring/commits/master (https://github.com/imageworks/pystring/commit/4af4a865208b400b9cd5ae71b0e162a6baf331f9 )
+
+2020.02.10:
+* changed: readme update
+
+2020.01.30:
+* changed: changelog updated for more accurate version info
+
+2020.01.30:
+* changed: changelog updated for more accurate links
+
+2020.01.24:
+* changed: cutted off the version reference from the readme file as may change frequently
+
+2020.01.21:
+* changed: readme update
+
+2019.11.24:
+* changed: merge with the library repository changes above release 1.1.3 at commit #4af4a865208b400b9cd5ae71b0e162a6baf331f9 (2019.03.21) from https://github.com/imageworks/pystring/commits/master (https://github.com/imageworks/pystring/commit/4af4a865208b400b9cd5ae71b0e162a6baf331f9 )
+* changed: readme update
+
+2019.10.08:
+* fixed: cmake: configure fix
+
+2018.11.22:
+* fixed: build under Linux, use C++11 only
+
+2018.11.13:
+* new: changelog
+* new: initial patched sources fork at release 1.1.3 commit #c2de99deb4f0bd13751f8436400b5e8662301769 (2012.10.17) from https://github.com/imageworks/pystring/commits/master (https://github.com/imageworks/pystring/commit/c2de99deb4f0bd13751f8436400b5e8662301769 )
